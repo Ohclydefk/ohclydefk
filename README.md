@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=820&lines=Hi%2C+I%E2%80%99m+Clyde+%F0%9F%91%8B;Frontend+%2B+Backend+Web+Developer;Learning+Vue.js+%7C+Building+Clean+Systems;APIs%2C+Dashboards%2C+CRUD+Apps" alt="Typing SVG" />
 
 <br/>
 
-<!-- Quick badges -->
 <img src="https://img.shields.io/badge/Focus-Fullstack-2C3E50?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Learning-Vue.js-2C3E50?style=flat&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Building-REST%20APIs-2C3E50?style=flat&logo=fastapi&logoColor=00C7B7" />
 
 <br/><br/>
 
-<!-- Socials -->
 <a href="https://facebook.com/ohclydefkk" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
@@ -23,7 +20,7 @@
 
 ## 🧠 About Me
 - 😍 Currently learning **Vue.js**
-- 💡 Frontend + backend web development
+- 💡 I do **frontend + backend** web development
 - 🧩 I enjoy building real-world systems (**CRUD**, **Dashboards**, **APIs**, **Analytics**)
 
 ---
@@ -32,42 +29,52 @@
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=vue,react,html,css,ts" />
+<b>Frontend / Mobile</b><br/>
+<img src="https://skillicons.dev/icons?i=vue,react,html,css,ts,flutter" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,python" />
+<br/><br/>
 
-### Database / Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+<b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,python,dotnet" />
+
+<br/><br/>
+
+<b>Database / Tools / Cloud</b><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,git,github,vscode,postman" />
 
 </div>
 
-> Tip: Skill icons look super clean and modern compared to many badges.
+<p align="center">
+  <i>
+    Also experienced with <b>ASP.NET</b>, <b>VB.NET</b>, <b>Google APIs</b>, and <b>Chart.js</b>.
+  </i>
+</p>
 
 ---
 
-## 🧩 What I’m Working On (Standout Section)
+## 🧩 What I’m Working On
 
 <div align="center">
 
 <table>
   <tr>
-    <td width="50%">
-      
-### 🌱 Currently Learning
-- Vue 3 (Composition API)
-- Vue Router + Pinia
-- API integration (Axios / Fetch)
-
+    <td width="50%" valign="top">
+      <b>🌱 Currently Learning</b>
+      <ul>
+        <li>Vue 3 (Composition API)</li>
+        <li>Vue Router + Pinia</li>
+        <li>API integration (Axios / Fetch)</li>
+        <li>Firebase integration</li>
+      </ul>
     </td>
-    <td width="50%">
-
-### 🔥 Building Skills
-- RESTful APIs
-- Authentication (JWT / sessions)
-- MySQL + backend CRUD patterns
-
+    <td width="50%" valign="top">
+      <b>🔥 Building Skills</b>
+      <ul>
+        <li>RESTful APIs</li>
+        <li>Authentication (JWT / sessions)</li>
+        <li>MySQL / PostgreSQL database patterns</li>
+        <li>Docker basics for deployment</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -76,55 +83,74 @@
 
 ---
 
-## 🗂️ Featured Projects (Add Your Best Work)
+## 👨‍💻 What I Am as a Developer
 
-> Replace the links below with your repos (recommended: 2–4 only).
+I’m a <b>full-stack developer</b> who builds <b>CRUD systems, dashboards, and RESTful APIs</b>.  
+I create clean interfaces with <b>Vue / React</b>, develop backends with <b>Node.js / Laravel / ASP.NET (VB.NET)</b>, and manage data using <b>MySQL</b> and <b>PostgreSQL</b>.  
+I also build <b>Flutter</b> mobile apps that connect to APIs, and I use <b>Chart.js</b> for dashboard charts.
+
+---
+
+## 🛠️ Tools I Use
+- **VS Code** for development
+- **Git + GitHub** for version control
+- **Postman** for API testing
+- **Docker** for containerized environments
+- **Firebase** for auth / database / hosting (depending on project)
+- **Google APIs** for integrations (Sheets, Drive, Maps, etc.)
+
+---
+
+## 🚀 What I Build
 
 <div align="center">
 
-<a href="https://github.com/Ohclydefk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ohclydefk&repo=YOUR_REPO_1&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ohclydefk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ohclydefk&repo=YOUR_REPO_2&theme=radical&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🌐 Web Apps</b>
+      <ul>
+        <li>CRUD systems</li>
+        <li>Admin panels</li>
+        <li>Dashboards & analytics</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>🔌 APIs</b>
+      <ul>
+        <li>REST API endpoints</li>
+        <li>Auth flows (JWT / sessions)</li>
+        <li>Database-driven integrations</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <b>📱 Mobile</b>
+      <ul>
+        <li>Flutter apps</li>
+        <li>API-connected screens</li>
+        <li>Clean UI layouts</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ohclydefk&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohclydefk&theme=radical&hide_border=true&layout=compact" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohclydefk&theme=radical&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohclydefk&theme=radical&hide_border=false" />
 </div>
-
----
-
-## ✨ Featured Focus
-- ✅ Vue.js + Components + Composition API  
-- ✅ REST API integration (Axios / Fetch)  
-- ✅ Laravel + MySQL CRUD systems  
-- ✅ Node.js API basics  
 
 ---
 
 ## 💬 Dev Quote
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ohclydefk&icon=4&color=12" />
-</div>
+

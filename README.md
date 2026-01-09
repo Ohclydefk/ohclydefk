@@ -8,7 +8,7 @@
 Building web apps • Learning Vue • Always improving
 
 <p>
-  <a href="https://facebook.com/ohclydefk" target="_blank">
+  <a href="https://facebook.com/ohclydefkk" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
 </p>
